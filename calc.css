@@ -1,0 +1,82 @@
+html{
+  width:2000px
+}
+.factor{
+  border-color:pink;
+  border-style: dashed;
+  margin-left:30px;
+  float:left;
+  height:auto;
+}
+.inversefactor{
+  border-color:aqua;
+  border-style: dashed;
+  margin-left:30px;
+  float:left;
+  height:auto;
+}
+.container{
+  border-color:aqua;
+  border-style: dashed;
+  margin-left:30px;
+  float:left;
+  height:auto;
+}
+
+.matrix{
+  float:left; 
+}
+.sign{
+ float:left;
+  height:100%;
+  padding-top:20%;
+  font-size:20px;
+}
+.column{
+  float:left;
+}
+.entry{
+  text-align: center;
+  margin-left:0px;
+  margin-top:0px;
+  width:50px;
+  height:50px;
+  font-size:20px;
+  font-weight:900;
+  border:20px;
+  border-color:black;
+  color:black;
+}
+
+
+.regularbox{
+  background-color:rgb(192, 252, 184);
+}
+.frombox{
+  background-color:rgb(215, 174, 243);
+}
+.fromselfbox{
+  background-color:rgb(186, 97, 245);
+}
+.tobox{
+  background-color:rgb(152, 145, 255);
+}
+.toselfbox{
+  background-color:rgb(96, 85, 250);
+}
+.controlbox{
+  background-color:deepskyblue;
+}
+.cornerbox{
+  background-color:rgb(182, 181, 245);
+  color:black;
+  font-size:20px;
+}
+.cornerbox:hover{
+  background-color:rgb(182, 255, 245);
+  color:black;
+  font-size:20px;
+}
+.highlightbox{
+  background-color:rgb(241, 177, 233);
+}
